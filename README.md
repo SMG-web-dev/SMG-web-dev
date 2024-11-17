@@ -1,7 +1,9 @@
 <h1 align="left">👋Hello World! I'm Sergio, a Spanish Web Developer:</h1>
 <br clear="both">
+```html
 <h3>💼 Working as a web developer since 2022</h3>
 <h3>🎓 Currently studying on the IES Tetuán de las Victorias</h3>
+```
 <h1 align="left">💻 Tech Stack:</h1>
 <br clear="both">
 <div align="left">
@@ -57,6 +59,7 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="30" alt="git logo"  />
 </div>
+<br clear="both">
 <p align="center">
   <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" alt="Background GIF" width="750"/>
 </p>
