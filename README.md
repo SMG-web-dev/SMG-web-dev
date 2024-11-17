@@ -1,9 +1,9 @@
-<h1 align="left">👋Hello World! I'm Sergio, a Web Developer:</h1>
-
-###
-
+<h1 align="left">👋Hello World! I'm Sergio, a Spanish Web Developer:</h1>
 <br clear="both">
-
+<p>💼 Working as a web developer since 2022</p>
+<p>🎓 Currently studying on the IES Tetuán de las Victorias</p>
+<h1 align="left">💻 Tech Stack:</h1>
+<br clear="both">
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="java logo"  />
   <img width="5" />
@@ -54,12 +54,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="30" alt="git logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SMG-web-dev/SMG-web-dev/output/snake.svg" alt="Snake animation" />
-
-###
