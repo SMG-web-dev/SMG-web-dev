@@ -8,7 +8,7 @@
 <h1 align="left">💻 Tech Stack:</h1>
 <br clear="both">
 <div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="java logo"  style="border-radius: 10px;" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="java logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
   <img width="5" />
@@ -62,5 +62,5 @@
 </div>
 <br clear="both">
 <p align="center">
-  <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" alt="Background GIF" width="750"/>
+  <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" alt="Background GIF" width="750" style="border-radius: 10px;/>
 </p>
