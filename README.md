@@ -1,5 +1,8 @@
-<img src="https://i.pinimg.com/originals/8b/35/72/8b357283fd26e3bb18cc1983c0ebdb9c.gif" height="30" alt="Welcome"  />
-  <img width="100" />
+<br clear="both">
+
+<img align="left" height="185" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif"  />
+
+###
 <h1 align="left">👋Hello World! I'm Sergio, a Spanish Web Developer:</h1>
 <br>
 <p>💼 Working as a web developer since 2022</p>
