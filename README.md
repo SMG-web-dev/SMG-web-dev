@@ -1,10 +1,13 @@
 <h1 align="left">👋Hello World! I'm Sergio, a Spanish Web Developer:</h1>
 <br clear="both">
-<div align="center" style="position: relative; width: 100%; max-width: 600px;">
-  <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" alt="Background GIF" style="width: 100%; height: auto; display: block; position: absolute; z-index: -1; top: 0; left: 0;">
-  <h3 style="color: white; text-shadow: 0px 0px 5px rgba(0,0,0,0.7);">💼 Working as a web developer since 2022</h3>
-  <h3 style="color: white; text-shadow: 0px 0px 5px rgba(0,0,0,0.7);">🎓 Currently studying on the IES Tetuán de las Victorias</h3>
-</div>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" alt="Background GIF" width="600"/>
+</p>
+
+```html
+<h3>💼 Working as a web developer since 2022</h3>
+<h3>🎓 Currently studying on the IES Tetuán de las Victorias</h3>
+```
 <h1 align="left">💻 Tech Stack:</h1>
 <br clear="both">
 <div align="left">
