@@ -1,4 +1,4 @@
-<h1 align="left">Hello World! I'm Sergio, a Web Developer Student:</h1>
+<h1 align="left">👋Hello World! I'm Sergio, a Web Developer:</h1>
 
 ###
 
