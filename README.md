@@ -1,8 +1,3 @@
-<br clear="both">
-
-<img align="left" height="185" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif"  />
-
-###
 <h1 align="left">👋Hello World! I'm Sergio, a Spanish Web Developer:</h1>
 <br>
 <p>💼 Working as a web developer since 2022</p>
@@ -62,3 +57,5 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="30" alt="git logo"  />
 </div>
+<br clear="both">
+<img align="left" height="100" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif"  />
