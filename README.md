@@ -1,8 +1,9 @@
 <h1 align="left">👋Hello World! I'm Sergio, a Spanish Web Developer:</h1>
 <br clear="both">
-<img align="right" height="150" src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif"  />
-<h3 align="left">💼 Working as a web developer since 2022</h3>
-<h3 align="left">🎓 Currently studying on the IES Tetuán de las Victorias</h3>
+<img align="right" height="135" src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif"  />
+<h4 align="left">💼 Working as a web developer since 2022</h4>
+<h4 align="left">🎓 Currently studying on the IES Tetuán de las Victorias</h4>
+<br clear="both">
 <h1 align="left">💻 Tech Stack:</h1>
 <br clear="both">
 <div align="left">
