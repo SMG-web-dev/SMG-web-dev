@@ -2,7 +2,7 @@
 <br clear="both">
 
 ```html
-<h3>💼 Currently working as a Frontend Developer</h3>
+<h2>💼 Currently working as a Frontend Developer</h2>
 ```
 <h1 align="left">💻 Tech Stack:</h1>
 <br clear="both">
