@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hello World! I'm Sergio — Full-Stack Web Developer based in Madrid 🇪🇸</h1>
+<h1 align="left">👋 Hello World! I'm Sergio — Full-Stack Web Developer based in Madrid & Sevilla 🇪🇸</h1>
 
 ```ts
 const sergio = {
@@ -70,19 +70,6 @@ const sergio = {
 
 <br clear="both">
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SMG-web-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMG-web-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMG-web-dev&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<br clear="both">
-
 ## 📫 Let's connect
 
 <p align="left">
@@ -91,4 +78,4 @@ const sergio = {
   <a href="mailto:smanjon2021@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" height="30" alt="email" /></a>
 </p>
 
-<sub>🌍 Spanish (native) · English (advanced) · Italian & French (basic) — open to remote, hybrid or on-site (Madrid).</sub>
+<sub>🌍 Spanish (native) · English (advanced) · Italian & French (basic) — open to remote, hybrid or on-site (Madrid & Sevilla).</sub>
